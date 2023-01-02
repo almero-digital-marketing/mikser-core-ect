@@ -6,5 +6,6 @@ export function load({ runtime, options }) {
 }
 
 export function render({ entity, runtime }) {
-    return runtime.ect(entity.layout.name, runtime)
+    const result = runtime.ect(entity.layout.name, runtime)
+    return result
 }
