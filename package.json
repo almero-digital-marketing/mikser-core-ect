@@ -1,6 +1,6 @@
 {
   "name": "mikser-core-render-ect",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -9,9 +9,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/almero-digital-marketing/mikser-core-render-ect.git"
-  },
-  "peerDependencies": {
-    "mikser-core": "^1.0.2"
   },
   "author": "",
   "license": "MIT",
